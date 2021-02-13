@@ -35,6 +35,8 @@ README описывает детали совместной работы над 
 
 Для создания роута, введите `ember generate route <route-name>`
 
+Для удаления роутов можно использовать команду `ember destroy route <route-name>`
+
 ### Запуск тестов
 
 * `ember test`
