@@ -49,6 +49,10 @@ README описывает детали совместной работы над 
 
 `ember generate component <component-name>/<subcomponent-name>` - для генерации подкомпонентов для использования в главном компоненте
 
+## Helper
+
+`ember generate helper <helper-name>` - для генерации кастомного хелпера
+
 ## Иконки
 
 См. сайт [Font Awesome](https://fontawesome.com/)
