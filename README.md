@@ -37,6 +37,10 @@ README описывает детали совместной работы над 
 
 Для удаления роутов можно использовать команду `ember destroy route <route-name>`
 
+## Controller
+
+`ember generate controller <controller-name>` - для генерации контроллера
+
 ## Иконки
 
 См. сайт [Font Awesome](https://fontawesome.com/)
