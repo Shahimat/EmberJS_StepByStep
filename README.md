@@ -53,6 +53,10 @@ README описывает детали совместной работы над 
 
 `ember generate helper <helper-name>` - для генерации кастомного хелпера
 
+## Service
+
+`ember generate service <service-name>` - для генерации сервиса
+
 ## Иконки
 
 См. сайт [Font Awesome](https://fontawesome.com/)
