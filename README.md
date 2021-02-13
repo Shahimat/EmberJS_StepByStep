@@ -49,6 +49,12 @@ README описывает детали совместной работы над 
 
 Для настройки дополнительных зависимостей, можно глянуть сайт [npm модуля](https://www.npmjs.com/package/@fortawesome/ember-fontawesome)
 
+## Bootstrap
+
+`ember install ember-bootstrap` - устанавливаем плагин
+
+`ember generate ember-bootstrap --preprocessor=sass` - если нужен препроцессор SASS
+
 ### Запуск тестов
 
 * `ember test`
