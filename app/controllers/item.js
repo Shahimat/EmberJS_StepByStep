@@ -10,12 +10,7 @@ export default class ItemController extends Controller {
     }
     
     @action
-    onChangeColorRed() {
-        this.color = 'red';
-    }
-
-    @action
-    onChangeColorBlack() {
-        this.color = 'black';
+    onChangeColor(newColor) {
+        this.color = newColor;
     }
 }

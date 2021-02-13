@@ -22,9 +22,9 @@
         <h5>Color</h5>
         <div class="product-colors active-{{@color}}">
             <span class="product-color color-red"
-                {{on 'click' @onChangeColorRed}}></span>
+                {{on 'click' (fn @onChangeColor 'red')}}></span>
             <span class="product-color color-black"
-                {{on "click" @onChangeColorBlack}}></span>
+                {{on "click" (fn @onChangeColor 'black')}}></span>
         </div>
     </div>
 </div>
