@@ -37,6 +37,18 @@ README описывает детали совместной работы над 
 
 Для удаления роутов можно использовать команду `ember destroy route <route-name>`
 
+## Иконки
+
+См. сайт [Font Awesome](https://fontawesome.com/)
+
+Установка:
+
+`ember install @fortawesome/ember-fontawesome` - плагин для Эмбер
+
+`npm i --save-dev @fortawesome/free-solid-svg-icons` - стиль бесплатных иконок Solid (можно установить разные)
+
+Для настройки дополнительных зависимостей, можно глянуть сайт [npm модуля](https://www.npmjs.com/package/@fortawesome/ember-fontawesome)
+
 ### Запуск тестов
 
 * `ember test`
