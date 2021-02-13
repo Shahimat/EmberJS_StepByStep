@@ -41,6 +41,10 @@ README описывает детали совместной работы над 
 
 `ember generate controller <controller-name>` - для генерации контроллера
 
+## Component
+
+`ember generate component <component-name>` - для генерации компонента
+
 ## Иконки
 
 См. сайт [Font Awesome](https://fontawesome.com/)
