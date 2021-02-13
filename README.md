@@ -45,6 +45,8 @@ README описывает детали совместной работы над 
 
 `ember generate component <component-name>` - для генерации компонента
 
+`ember generate component-class <component-name>` - генерирует класс компонента, в котором можно описать его логику
+
 `ember generate component <component-name>/<subcomponent-name>` - для генерации подкомпонентов для использования в главном компоненте
 
 ## Иконки
