@@ -57,6 +57,18 @@ README описывает детали совместной работы над 
 
 `ember generate service <service-name>` - для генерации сервиса
 
+## Model
+
+`ember generate model <model-name>` - для генерации Ember Data модели
+
+## Adapter
+
+`ember generate adapter <adapter-name>` - для генерации адаптера Ember Data модели
+
+## Serializer
+
+`ember generate serializer <serializer-name>` - для генерации сериализатора Ember Data модели
+
 ## Иконки
 
 См. сайт [Font Awesome](https://fontawesome.com/)
