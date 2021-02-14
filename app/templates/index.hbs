@@ -1,3 +1,5 @@
+<button  {{on 'click' this.getData}}>Нажми на меня</button>
+
 <GeneralContainer>
     {{#each this.model as |product|}}
         <Product @product={{product}}/>
